@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Sumit Pandey
 
-### Full Stack Developer | Java & MERN Stack Enthusiast
+### Full Stack Developer | Java Backend & MERN Stack Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Microservices;MERN+Stack+Developer;Building+Scalable+Full+Stack+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Microservices;MERN+Stack+Developer;Building+Scalable+Full+Stack+Applications" alt="Typing SVG" />
 
 </div>
 
@@ -12,25 +12,26 @@
 
 # 💫 About Me
 
-- 🔭 Currently building **Java Backend Applications** using **Spring Boot & REST APIs**
-- 🌱 Pursuing **PG-DAC (CDAC)** focused on:
-  - Advanced Java
-  - Spring Boot
-  - Microservices
-  - SQL
-- 👨‍💻 Passionate about **Backend Development**, **Scalable Systems**, and **Full Stack Applications**
+- 🔭 Currently building and managing my own job portal platform **JobSea**
+- 🌱 Completed **PG-DAC (Post Graduate Diploma in Advanced Computing)** with **74%**
+- 🏛️ PG-DAC under **Ministry of Electronics and Information Technology (MeitY), Government of India**
+- 🎓 B.Tech in Computer Science & Engineering with **76.2%**
+- 👨‍💻 Passionate about:
+  - Backend Development
+  - Full Stack Applications
+  - REST APIs
+  - Scalable Systems
 - 🤝 Open to collaborating on:
-  - Java Projects
-  - Spring Boot Applications
-  - MERN Stack Projects
-  - REST API Development
+  - Java & Spring Boot Projects
+  - MERN Stack Applications
+  - Full Stack Development
 - 💬 Ask me about:
   - Core Java
-  - OOPs Concepts
+  - OOPs
   - Collections Framework
-  - Multithreading
   - Spring Boot
   - MERN Stack
+  - REST APIs
 - ⚡ Fun Fact:
   - I enjoy simplifying complex technical concepts into understandable logic.
 
@@ -118,14 +119,32 @@
 
 ## 💼 JobSea – Job Portal Platform
 
-> Full Stack Job Portal Application allowing users to explore and apply for jobs without mandatory sign-up.
+> A modern Full Stack Job Portal platform currently being built and managed independently.
+
+### 🔗 Live Project:
+👉 https://jobsea-seven.vercel.app/
 
 ### Features:
 - Job Categories
 - Search & Filters
+- User-Friendly Interface
 - Responsive Design
-- User-Friendly Application Flow
-- Admin Job Management
+- Admin Management
+- Direct Job Applications
+
+---
+
+# 📚 Education
+
+## 🎓 PG-DAC (Post Graduate Diploma in Advanced Computing)
+- **CDAC**
+- **74%**
+- Under **Ministry of Electronics and Information Technology (MeitY), Government of India**
+
+---
+
+## 🎓 Bachelor of Technology (B.Tech) – Computer Science & Engineering
+- **76.2%**
 
 ---
 
@@ -149,7 +168,7 @@
 - Improve System Design Skills
 - Learn DevOps & Cloud Deployment
 - Build Production-Grade Full Stack Applications
-- Contribute to Open Source Projects
+- Contribute to Open Source
 
 ---
 
