@@ -30,7 +30,7 @@
 <br/><br/>
 
 <!-- Profile views & followers -->
-![Profile Views](https://visitcount.itsvg.in/api?id=sumitpandey7454&icon=5&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=sumitpandey7454&style=flat-square&color=0088cc&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/sumitpandey7454?style=social)
 
 </div>
@@ -244,7 +244,7 @@ public class SumitPandey extends Developer {
 | Degree | Institution | Score |
 |---|---|---|
 | 🎓 PG-DAC (Post Graduate Diploma in Advanced Computing) | CDAC — Under MeitY, Govt. of India | **74%** |
-| 🎓 B.Tech — Computer Science & Engineering | — | **76.2%** |
+| 🎓 B.Tech — Computer Science & Engineering | United College of Engineering & Management | **76.2%** |
 
 </div>
 
@@ -259,6 +259,6 @@ public class SumitPandey extends Developer {
 
 <br/>
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=sumitpandey7454&icon=5&color=6)
+![Visitor Count](https://komarev.com/ghpvc/?username=sumitpandey7454&style=for-the-badge&color=0088cc)
 
 </div>
