@@ -9,9 +9,9 @@
 
 </div>
 
-<!-- TYPING SVG — dark background built in, renders correctly on GitHub -->
+<!-- ANIMATED ROLE BANNER — capsule-render twinkling (same service as header, always works) -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00C2FF&background=0D1117&center=true&vCenter=true&repeat=true&width=820&height=52&lines=🚀+Java+Backend+Developer;⚡+Spring+Boot+|+REST+APIs+|+Microservices;🌐+MERN+Stack+Developer;🤖+AI+Integrations+|+Google+Gemini;🏗️+Building+Scalable+Full+Stack+Systems;☁️+AWS+|+Azure+|+DevOps" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=56&text=%F0%9F%9A%80%20Java%20Backend%20%7C%20Spring%20Boot%20%7C%20MERN%20Stack%20%7C%20AI%20Integrations%20%7C%20Full%20Stack%20Dev&fontSize=17&fontColor=00c2ff&animation=twinkling&fontAlignY=65" width="100%"/>
 </div>
 
 <br/>
